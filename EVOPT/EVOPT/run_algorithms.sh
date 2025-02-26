@@ -1,0 +1,1 @@
+python ./run_algorithm.py -a LK_SHADE -p Cantilever_Beam Corrugated_Bulkhead I_Shaped_Beam Piston_Lever Piston_Lever Tension_Compression_Spring Tubular_Column
